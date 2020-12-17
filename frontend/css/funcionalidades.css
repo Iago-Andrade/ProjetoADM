@@ -1,0 +1,31 @@
+#funcionalidades{
+    width: 100%;
+    height: 800px;
+    color: white;
+    padding: 70px;
+    font-family: 'Times New Roman', Times, serif;
+    background-color: red;
+    margin-bottom: 250px;
+}
+
+#funcionalidades h1{
+    font-size: 70px;
+    font-weight: bold;
+}
+
+#funcionalidades p{
+    width: 600px;
+    height: 250px;
+    font-size: 22px;
+}
+
+#funcionalidades span{  
+    font-size: 20px;
+}
+
+#funcionalidades img{
+    width: 300px;
+    height: 550px;
+    margin-left: 700px;
+    margin-top: -800px;
+}
