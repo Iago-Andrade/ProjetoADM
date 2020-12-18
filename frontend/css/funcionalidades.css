@@ -5,7 +5,7 @@
     padding: 70px;
     font-family: 'Times New Roman', Times, serif;
     background-color: red;
-    margin-bottom: 250px;
+    
 }
 
 #funcionalidades h1{
@@ -13,19 +13,20 @@
     font-weight: bold;
 }
 
-#funcionalidades p{
+#funcionalidades ul{
     width: 600px;
     height: 250px;
     font-size: 22px;
 }
 
-#funcionalidades span{  
-    font-size: 20px;
+#funcionalidades li{
+    margin-top: 10px;
 }
+
 
 #funcionalidades img{
     width: 300px;
     height: 550px;
     margin-left: 700px;
-    margin-top: -800px;
+    margin-top: -350px;
 }
